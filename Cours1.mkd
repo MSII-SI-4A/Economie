@@ -12,27 +12,118 @@ C'est une organisation composée de différents moyens (des hommes, du capital, 
 ## Classification des entreprises
 
 * Taille:
-    * Nombre de collaborateurs
+    * Effectifs: Nombre de collaborateurs
     * Chiffre d'affaires:
         * Ventes de produits ou services
         * Hors taxes
-    * Bénéfice
-
+    * Bénéfice Net
+        * Chiffre d'affaires moins toutes les charges
+        * Aprés impôts:        
+            IS: Impot sur les société taux fix à 33%
+            IR: Impot sur les revenues
+    * Valeur ajouté:
+        * Permet d'évaluer la richesse 
+        * Marge: Prix de vente du produit/service moins les dépenses de productions
+    * Capitaux propre:
+        * fond propre
+        * Appartiens aux associés/actionnaire
+        * Captital social: apport initial
+        * Réserve : bénéfice non rédistribué
+            * Peux servir pour:
+                * Investissement
+                * Période de crise
+                * Font de roulement
+        * Solidité de l'entreprise
 
 * Activité:
     * Industrielle
     * Commerciale
-    * Service
+    * Préstataire de service
     * Agricole
+    * Bancaire
+    * Assurance
     
-
-
-* Forme juridique:
+* Forme juridique Privée:
     * Entreprise Individuelle
-    * Entreprise sociétaire privées
+        * Seul
+        * Patrimoine unique
+    * EIRL: Entrepris individuelle à résponsabilité limité
+        * limite les saisie sur les biens personnel
+    * Auto-entrepreneur
+        * limite du chiffre d'affaires
+        * Impôt sur le chiffre d'affaires
+    * Entreprise sociétaire privées:
         * EURL/SARL (société à responsabilité limitée)
-        * SA (Société Anonyme)
-        * SAS (Société par actions simplifiée)
-        * SASU (Société par actions simplifiée unipersonnelle)
-        * SNC (Société à nom collectif)
+            * Pas de minimum de capitaux
+            * Résponsabilité limité aux apports
+            * Impôt sur la société pour SARL, Impôt sur le revenu pour EURL
+        * SA (Société Anonyme):
+            * Capital social minimum de 37 000€
+            * 7 actionnaires minimum
+            * Résponsabilité limité aux apports
+            * Impôt sur la société
+        * SAS (Société par actions simplifiée),  SASU (Société par actions simplifiée unipersonnelle):
+            * Résponsabilité limité aux apports
+            * Pas de minimum de capitaux
+            * Seul ou plusieur actionnaire en fonction du status
+            * Impôt sur la société
+        * SNC (Société à nom collectif):
+            * Pas de minimum de capitaux
+            * Résponsabilité ilimité et solidaire
+            * Impôt sur le revenu
+            
+* Forme juridique Public:
+    * Société d'économie Mixte
+    * Etablissement public industriel et commercial
+    
+* Forme juridique Social:
+    * Mutuelle  
+    
+## Environnement
 
+### Macro environnement
+
+* Facteur juridique:
+    * loi
+    * norme
+* Facteur démographique
+* Facteur internationnal
+* Facteur technologique
+* Facteur ecologique
+* Facteur sociologique
+
+### Micro environnement
+
+* fournisseurs
+* clients
+* concurrents
+* banques
+* marchés financiés
+* Etats, colléctivitées territoriales
+* Préscripteurs
+* Associations consommateurs
+
+## Fonctions en entreprises
+
+* Direction Général
+    * stratègies
+    * objectifs
+* Marketing
+    * stratégique
+    * opérationel
+* Communication
+* Système d'information
+* R&D
+* Production
+    * etude et méthode
+    * fabrication
+    * qualité
+* RH
+    * recrutement
+    * formation
+    * Promotion
+    * Plans sociaux
+* Direction financiaire
+* Contrôleur de gestion
+* Direction des achats
+* Logistiques
