@@ -49,6 +49,7 @@ Il est possible de classer les entreprises selon plusieurs critères.
 		 - 82 200€ pour la vente de biens
 	 - Pas de T.V.A.
 	 - Cotisations sur le chiffre d'affaire, pas de déduction des charges
+
 #### Entreprises sociétaires privées
  - **SARL et EURL :**
 	 - SARL : Société A Responssabilité Limitée
@@ -69,10 +70,12 @@ Il est possible de classer les entreprises selon plusieurs critères.
 	 - Pas d'apport minimum necessaire à la création (>= 1€)
 	 - Aux moins deux associés
 	 - Responssabilité illimitée et solidaire
+
 #### Entreprises du secteur public
  - **SEM :** Société d'Econnomie Mixte
  - **EPIC :** Etablissement Public Industriel et Commerciaux
 	 - ex: SNCF, RATP...
+
 #### Entreprises du secteur de l'économie sociale
  - Mutuelles
  - Cooperatives
@@ -86,6 +89,7 @@ Il est possible de classer les entreprises selon plusieurs critères.
  - Technologique : Inovations
  - Ecologique : Réduction de la consommation d'énergie, retraitement des déchets...
  - Sociologique : Niveau d'éducation, développement du temps libre...
+
 ### Micro environnement
  - Clients : Particuliers ou autres entreprises
  - Fournisseurs 
