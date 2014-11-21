@@ -1,3 +1,17 @@
 # Economie | Cours 1
 
-## 
+## Classification des entreprise
+
+* Taille:
+    * Nombre de collaborateurs
+    * Chiffre d'affaire
+    * Bénéfice
+    
+* Activité:
+    * code APE
+    
+
+* Forme juridique:
+
+
+   
