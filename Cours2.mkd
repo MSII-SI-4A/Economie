@@ -13,4 +13,53 @@ Permet d'enregistrer toutes les opérations que fait une entreprise
 
 ### le grand livre
 
-Permet de consulter le détail, les mouvement d'un ou plusieur compte du plan comptable
+Permet de consulter le détail, les mouvement d'un ou plusieur compte du plan comptable.
+
+### La balance
+
+Syntése des compte du plan comptable. Permet de générer :
+
+* Compte de résultat
+* Bilan
+
+#### Compte de résultat
+
+* Calculer le résultat
+    * Son chiffre d'affaire
+        * Produit HT
+            * exploitation(vente...)
+            * financiers(placement)
+            * exceptionnnels(vente de bien: voiture, bureau)
+        * Charge HT
+            * exploitation(Salaire...)
+            * produit financiers(intérêt d'imprunt)
+            * exceptionnnels(pénalité)
+        * Total produit
+        * Total charges
+        * Résultat
+        
+#### Bilan
+
+* Présente une image du patrimoine au moment de la cloture
+    * Actif(ce qu'elle posséde, emploi)
+        * Actif immobilisé, bien qui vont servir plus d'un an qui posséde une valeur de plus de 500€
+            * incorporels(licence, brevet, marque)
+            * corporels(ordinateur, voiture, mobilier)
+            * financiers(participation dans une autre entreprise, part de marché)
+        * Actif circulant, bien qui servent dans l'annnée:
+            * stock
+            * créances client
+            * tresorerie
+    * Passif(ce qu'elle doit, ressource)
+        * Capitaux propre, fond qui appartiennent à la société
+            * captital social
+            * resultat (compte de resultat)
+                * Dividendes aux associés
+                * Reserve (laissé de coté)
+            
+        * Dettes
+            * Emprunt
+            * fournisseurs
+            * Fiscalles et socialles
+            
+L'actif doit entre EGAL au passif 
