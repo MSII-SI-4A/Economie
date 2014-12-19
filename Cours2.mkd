@@ -1,0 +1,16 @@
+# Cours 2
+
+## Comptabilité
+
+Permet d'enregistrer toutes les opérations que fait une entreprise
+
+### Classement, Journaux
+
+* Achat
+* Vente
+* Banque
+* Caise
+
+### le grand livre
+
+Permet de consulter le détail, les mouvement d'un ou plusieur compte du plan comptable
