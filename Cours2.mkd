@@ -38,7 +38,7 @@ Syntése des compte du plan comptable. Permet de générer :
         * Total charges
         * Résultat
         
-#### Bilan
+#### le Bilan
 
 * Présente une image du patrimoine au moment de la cloture
     * Actif(ce qu'elle posséde, emploi)
@@ -51,7 +51,7 @@ Syntése des compte du plan comptable. Permet de générer :
             * créances client
             * tresorerie
     * Passif(ce qu'elle doit, ressource)
-        * Capitaux propre, fond qui appartiennent à la société
+        * Capitaux propre, fond qui appartiennent à la société(qu'elle doit aux associé )
             * captital social
             * resultat (compte de resultat)
                 * Dividendes aux associés
@@ -63,3 +63,21 @@ Syntése des compte du plan comptable. Permet de générer :
             * Fiscalles et socialles
             
 L'actif doit entre EGAL au passif 
+
+#### L'exercice comptable 
+
+Document correspondant d'analyse sur 12 mois
+
+#### Amortissements
+
+* Enregistrer la perte de valeur des biens.
+* Constater l'usure chaque année
+* La perte de valeur va être répercuter dans le compte de résultat en charge calculé.
+* amortissement linaire = Prix d'achat HT du bien / durée d'amortissement
+
+#### Dépréciations
+
+* Perte de valeur non définitive
+    * Terrain
+    * Client qui ne veut pas payer
+    
